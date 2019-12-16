@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga&display=swap" rel="stylesheet');
+body {
+  font-family: "Calistoga", cursive !important;
+}
+.avatar {
+  width: 25%;
+  text-align: center;
+  color: #777;
+  display: inline;
+  float: left;
+  padding: 20px;
+}
